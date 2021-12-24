@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nenesdoritos
+- 👀 I’m interested in ... Learning how to make a messeging website
+- 🌱 I’m currently learning ... Web Design
